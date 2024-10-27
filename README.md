@@ -73,7 +73,7 @@ Based on the analysis, we recommend the following actions:
 4. Create a loyalty program that rewards repeat purchases and encourages user engagement through discounts or exclusive offers.
 
 
-# [Project 3: User Segmentation Analysis](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Project_User_Segmentation.ipynb)
+## [Project 3: User Segmentation Analysis](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Project_User_Segmentation.ipynb)
 
 ### Project Overview 
 User segmentation merupakan proses membagi user atau pengguna ke dalam kelompok-kelompok yang memiliki karakteristik atau perilaku serupa. Teknik dan alat statistik untuk mengidentifikasi kelompok-kelompok ini, seperti analisis kluster (clustering) atau analisis faktor (factor analysis). User segmentation yang efektif dapat membantu perusahaan dalam menargetkan kampanye pemasaran dengan lebih baik,dan meningkatkan retensi pelanggan.
