@@ -1,4 +1,13 @@
 # **Najmudin Nuwari Portfolio**
+
+## Table of Contents
+
+- [Project 1: Movies Analysis](#project-1-movies-analysis)
+  - [Project Overview](#project-overview)
+  - [Data Source](#data-source)
+  - [Data Cleaning/Preparation](#data-cleaningpreparation)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+
 ## [Project 1: Movies Analysis](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Project_Movie_Analysis.ipynb)
 
 ### Project Overview 
