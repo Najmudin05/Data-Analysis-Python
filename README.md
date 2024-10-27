@@ -7,6 +7,22 @@
   - [Data Source](#data-source)
   - [Data Cleaning/Preparation](#data-cleaningpreparation)
   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Results/Findings](#resultsfindings)
+  - [Recommendations](#recommendations)
+
+- [Project 2: User Retention Analysis](#project-2-user-retention-analysis)
+  - [Project Overview](#project-overview-1)
+  - [Data Source](#data-source-1)
+  - [Data Preparation and Analysis](#data-preparation-and-analysis)
+  - [Results/Findings](#resultsfindings-1)
+  - [Recommendations](#recommendations-1)
+
+- [Project 3: User Segmentation Analysis](#project-3-user-segmentation-analysis)
+  - [Project Overview](#project-overview-2)
+  - [Data Source](#data-source-2)
+  - [Data Preparation and Analysis](#data-preparation-and-analysis-1)
+  - [Results/Findings](#resultsfindings-2)
+  - [Recommendations](#recommendations-2)
 
 ## [Project 1: Movies Analysis](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Project_Movie_Analysis.ipynb)
 
