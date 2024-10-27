@@ -71,3 +71,34 @@ Based on the analysis, we recommend the following actions:
 2. Investigate why users disengage after their initial purchase to identify improvement areas in the customer experience.
 3. Regularly gather user feedback to understand their needs and satisfaction levels, helping to guide product improvements.
 4. Create a loyalty program that rewards repeat purchases and encourages user engagement through discounts or exclusive offers.
+
+
+# [Project 3: User Segmentation Analysis](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Project_User_Segmentation.ipynb)
+
+### Project Overview 
+User segmentation merupakan proses membagi user atau pengguna ke dalam kelompok-kelompok yang memiliki karakteristik atau perilaku serupa. Teknik dan alat statistik untuk mengidentifikasi kelompok-kelompok ini, seperti analisis kluster (clustering) atau analisis faktor (factor analysis). User segmentation yang efektif dapat membantu perusahaan dalam menargetkan kampanye pemasaran dengan lebih baik,dan meningkatkan retensi pelanggan.
+
+### Data Source
+This user segmentation analysis uses a dataset from an online retail business, containing key transaction information. The dataset includes the following columns order_id, product_code, product_name, quantity, order_date, price, and customer_id. This dataset can be accessed [here](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Online%20Retail%20Data.csv)
+
+### Data Preparation and Analysis
+In the data preparation and analysis phase, we performed the following tasks:
+1. Understanding data.
+2. Data cleansing.
+3. Analyze user segmentation using RFM segmentation 
+	- Aggregate transaction data into a summary of total transactions (orders), total order value, and the last order date for each user.
+	- Create a column for the number of days since the last order.
+	- Create bins for the number of days since the last order consisting of 5 bins, with boundaries at min, P20, P40, P60, P80, max, and label them from 1 to 5 from highest to lowest as recency scores.
+	- Create bins for total transactions (orders) consisting of 5 bins, with boundaries at min, P20, P40, P60, P80, max, and label them from 1 to 5 from lowest to highest as frequency scores.
+	- Create bins for total order value consisting of 5 bins, with boundaries at min, P20, P40, P60, P80, max, and label them from 1 to 5 from lowest to highest as monetary scores.
+	- Display a summary of the RFM segmentation showing the number of users, the average and median of total orders, total order value, and the number of days since the last order.
+
+### Results/Findings
+From user data, it appears that the segments with the largest number of users are Hibernating (27.3%), Champions (14.1%), and Loyal Customers (14.0%).
+
+### Recommendations
+Based on the analysis, we recommend the following actions:
+1. To increase conversions from the Loyal Customers segment (14.0%), a special program can be implemented focusing on increasing transaction urgency, allowing them to move up to the Champion segment.
+2. For the Potential Loyalists segment (13.4%), a special program emphasizing increased transaction frequency can help them move up to the Champion segment.
+3. For the Hibernating segment (27.3%), a dedicated program can be designed to encourage them to start transacting again, even if not frequently, with the goal of advancing them to the Customers or even Potential Loyalists segment.
+
