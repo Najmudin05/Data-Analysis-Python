@@ -1,5 +1,5 @@
 # **Najmudin Nuwari Portfolio**
-## Project 1: Movies Analysis
+## [Project 1: Movies Analysis](https://github.com/Najmudin05/data-analysis-project-python/blob/main/Project_Movie_Analysis.ipynb)
 
 ### Project Overview 
 This project utilizes a comprehensive movie dataset, developed as part of a Data Science Capstone Project, to perform exploratory data analysis (EDA). The primary goal is to uncover trends in movies based on ratings, duration, and profit, and to examine the relationships among these three aspects.
